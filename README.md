@@ -1,0 +1,1 @@
+# Smart-agriculture-system-with-plant-disease-prediction-using-leaf-weatness-sensor
